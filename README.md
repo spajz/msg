@@ -122,5 +122,8 @@ Msg::setGroupFormat('info', '<b>:message</b>');
 
 // Get raw messages data
 Msg::getMesasges();
+
+// Set display mode single or group
+Msg::setDisplayMode('single');
 ```
 
