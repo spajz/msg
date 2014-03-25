@@ -121,7 +121,7 @@ echo Msg::danger('Something is wrong')->showDangerInstant();
 Msg::setGroupFormat('info', '<b>:message</b>');
 
 // Get raw messages data
-Msg::getMesasges();
+Msg::getMessages();
 
 // Set display mode single or group
 Msg::setDisplayMode('single');
